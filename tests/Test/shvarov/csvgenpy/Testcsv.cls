@@ -120,10 +120,9 @@ Method TestGenerateFromURL()
 {
 	Set tExpected=3347
 	set url="https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/05-17-2020.csv"
-	kill pclass
-    kill prowtype
-	set status=##class(shvarov.csvgenpy.generate).GenerateFromURL(url,",",.pclass,.prowtype,1,.tResults)
-	do $$$AssertStatusOK(status,"GenerateFromURL")
+	set tname="sqltest"
+	set status=##class(shvarov.csvgenpy.generate).Generate(url,tname)
+	set tResults=..RecordCount("csvgen."_tname)
 	Do $$$AssertEquals(tResults,tExpected,tExpected_" = "_tResults)
 }
 
