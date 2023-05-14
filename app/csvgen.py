@@ -13,6 +13,7 @@ def importcsv(file_name,table_name='csv_import',connect_line='iris+emb:///',sche
         columns = inspector.get_columns(table_name, schema)
         column_names=[column['name'] for column in columns]
         df=pd.read_csv(file_name,header=None,names=column_names)
+        if_exists='append'
 
     if header==True:
         df = pd.read_csv(file_name)
