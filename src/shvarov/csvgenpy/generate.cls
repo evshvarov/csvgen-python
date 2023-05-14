@@ -3,7 +3,7 @@ Class shvarov.csvgenpy.generate
 
 /// CSVGENPY.GENERATE
 /// filename - file or URL to import
-ClassMethod Generate(filename, tablename = "csvgenpy", schema = "csvgen", server = "iris+emb:///", append As %Boolean = 0) As %Status
+ClassMethod Generate(filename, tablename = "csvgenpy", schema = "csvgen", server = "iris+emb:///", append As %Boolean = 0, header = 1) As %Status
 {
         Set sc = $$$OK
         Set csv = ##class(%SYS.Python).Import("csvgen")
@@ -13,7 +13,7 @@ ClassMethod Generate(filename, tablename = "csvgenpy", schema = "csvgen", server
             if $$$ISERR(sc) Return sc
         }
 
-        do csv.importcsv(filename,tablename,server,schema,$case(append,1:"append",:"replace"))
+        do csv.importcsv(filename,tablename,server,schema,$case(append,1:"append",:"replace"),header)
         Return sc
 }
 

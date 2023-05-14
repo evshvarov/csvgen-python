@@ -46,10 +46,12 @@ Method TestDateTime()
 
 Method TestNoHeader()
 {
-	Set tExpected=10
-	set fn="/home/irisowner/dev/data/10k_diabetes_small 2.csv"
+	Set tExpected=4
+	set fn="/home/irisowner/dev/data/test_header.csv"
 	set tname="sqltest"
 	set status=##class(shvarov.csvgenpy.generate).Generate(fn,tname)
+	set fn="/home/irisowner/dev/data/test_noheader.csv"
+	set status=##class(shvarov.csvgenpy.generate).Generate(fn,tname,,,,0)
 	set tResults=..RecordCount("csvgen."_tname)
 	Do $$$AssertEquals(tResults,tExpected,tExpected_" = "_tResults)
 }
@@ -71,7 +73,7 @@ Method TestAppend()
 	set tname="sqltest"
 	do ..DeleteTable("csvgen."_tname)
 	set status=##class(shvarov.csvgenpy.generate).Generate(fn,tname)
-	set status=##class(shvarov.csvgenpy.generate).Generate(fn,tname,,1)
+	set status=##class(shvarov.csvgenpy.generate).Generate(fn,tname,,,1)
 	set tResults=..RecordCount("csvgen."_tname)
 	Do $$$AssertEquals(tResults,tExpected,tExpected_" = "_tResults)
 }
