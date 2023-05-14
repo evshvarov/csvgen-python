@@ -2,6 +2,8 @@
 import csv in Intersystems IRIS using embedded python
 The analog of [csvgen](https://openexchange.intersystems.com/package/csvgen) but written in embedded python.
 
+It uses [Community IRIS SQLAlchemy](https://openexchange.intersystems.com/package/sqlalchemy-iris) to make everything work.
+
 ## Installation ZPM
 
 ```
