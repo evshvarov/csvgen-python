@@ -1,0 +1,485 @@
+Name,Version,Region,Country,City,Success,SystemVersion,SystemVersionNumber,SystemVersionOS
+iris-message-viewer,1.5.4,Catalonia,ES,Sabadell,1,IRIS for Windows (x86-64) 2022.3 (Build 606U) Mon Jan 30 2023 09:08:55 EST,2022.3,Windows
+npm-iris,0.1.4,Catalonia,ES,Sabadell,1,IRIS for Windows (x86-64) 2022.3 (Build 606U) Mon Jan 30 2023 09:08:55 EST,2022.3,Windows
+git-source-control,2.1.1,Kanagawa,JP,Kamakura,1,IRIS for Windows (x86-64) 2022.1 (Build 164U) Tue Apr 5 2022 01:20:41 EDT,2022.1,Windows
+git-source-control,2.1.1,Kanagawa,JP,Kamakura,1,IRIS for Windows (x86-64) 2022.1 (Build 164U) Tue Apr 5 2022 01:20:41 EDT,2022.1,Windows
+zpipe,1.1.0,Hesse,DE,Darmstadt,1,IRIS for Windows (x86-64) 2022.1 (Build 209U) Tue May 31 2022 12:16:40 EDT,2022.1,Windows
+zpip,0.0.4,Hesse,DE,Darmstadt,1,IRIS for Windows (x86-64) 2022.1 (Build 209U) Tue May 31 2022 12:16:40 EDT,2022.1,Windows
+dsw-map,1.0.10,Dubai,AE,Dubai,1,IRIS for UNIX (Ubuntu Server LTS for ARM64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:20:01 EDT,2023.1,UNIX
+dsw-map,1.0.11,Dubai,AE,Dubai,1,IRIS for UNIX (Ubuntu Server LTS for ARM64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:20:01 EDT,2023.1,UNIX
+dsw-map,1.0.11,Dubai,AE,Dubai,1,IRIS for UNIX (Ubuntu Server LTS for ARM64 Containers) 2023.1 (Build 218U) Wed Mar 15 2023 11:22:20 EDT,2023.1,UNIX
+samples-bi,1.0.1,Massachusetts,US,Boston,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 219U) Tue Mar 21 2023 15:49:37 EDT,2023.1,UNIX
+apps.rest,1.0.1,Massachusetts,US,Boston,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 219U) Tue Mar 21 2023 15:49:37 EDT,2023.1,UNIX
+swagger-ui,1.0.0,Massachusetts,US,Boston,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 219U) Tue Mar 21 2023 15:49:37 EDT,2023.1,UNIX
+ifindportal,1.1.0,Massachusetts,US,Boston,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 219U) Tue Mar 21 2023 15:49:37 EDT,2023.1,UNIX
+git-source-control,2.1.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server 20.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:03:40 EST,2022.1.2,UNIX
+git-source-control,2.1.1,Virginia,US,Ashburn,1,IRIS for UNIX (Ubuntu Server LTS for ARM64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:16:48 EDT,2023.1,UNIX
+passwordless,1.0.4,Virginia,US,Ashburn,1,IRIS for UNIX (Ubuntu Server LTS for ARM64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:16:48 EDT,2023.1,UNIX
+git-source-control,2.1.1,Virginia,US,Ashburn,1,IRIS for UNIX (Ubuntu Server LTS for ARM64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:16:48 EDT,2023.1,UNIX
+passwordless,1.0.4,Virginia,US,Ashburn,1,IRIS for UNIX (Ubuntu Server LTS for ARM64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:16:48 EDT,2023.1,UNIX
+git-source-control,2.1.1,Virginia,US,Ashburn,1,IRIS for UNIX (Ubuntu Server LTS for ARM64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:16:48 EDT,2023.1,UNIX
+passwordless,1.0.4,Virginia,US,Ashburn,1,IRIS for UNIX (Ubuntu Server LTS for ARM64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:16:48 EDT,2023.1,UNIX
+objectscript-json-trace-viewer,1.0.1,Virginia,US,Ashburn,1,IRIS for UNIX (Ubuntu Server LTS for ARM64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:16:48 EDT,2023.1,UNIX
+git-source-control,2.1.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server 20.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:03:40 EST,2022.1.2,UNIX
+webterminal,4.9.6,Virginia,US,Ashburn,1,IRIS for UNIX (Ubuntu Server LTS for ARM64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:16:48 EDT,2023.1,UNIX
+webterminal,4.9.6,Virginia,US,Ashburn,1,IRIS for UNIX (Ubuntu Server LTS for ARM64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:16:48 EDT,2023.1,UNIX
+globals-tool,0.1.1,Catalonia,ES,L'Hospitalet de Llobregat,1,IRIS for Windows (x86-64) 2023.1 (Build 229U) Fri Apr 14 2023 17:17:41 EDT,2023.1,Windows
+iris-message-viewer,1.5.4,Catalonia,ES,L'Hospitalet de Llobregat,1,IRIS for Windows (x86-64) 2023.1 (Build 229U) Fri Apr 14 2023 17:17:41 EDT,2023.1,Windows
+iris-log-viewer,1.0.6,Catalonia,ES,L'Hospitalet de Llobregat,1,IRIS for Windows (x86-64) 2023.1 (Build 229U) Fri Apr 14 2023 17:17:41 EDT,2023.1,Windows
+irishealth-ensdemo,1.0.0,Catalonia,ES,L'Hospitalet de Llobregat,1,IRIS for Windows (x86-64) 2023.1 (Build 229U) Fri Apr 14 2023 17:17:41 EDT,2023.1,Windows
+webterminal,4.9.6,Catalonia,ES,L'Hospitalet de Llobregat,1,IRIS for Windows (x86-64) 2023.1 (Build 229U) Fri Apr 14 2023 17:17:41 EDT,2023.1,Windows
+webterminal,4.9.6,Virginia,US,Ashburn,1,IRIS for UNIX (Ubuntu Server LTS for ARM64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:16:48 EDT,2023.1,UNIX
+git-source-control,2.1.1,Kanagawa,JP,Kamakura,1,IRIS for Windows (x86-64) 2022.1 (Build 164U) Tue Apr 5 2022 01:20:41 EDT,2022.1,Windows
+git-source-control,2.1.1,Kanagawa,JP,Kamakura,1,IRIS for Windows (x86-64) 2022.1 (Build 164U) Tue Apr 5 2022 01:20:41 EDT,2022.1,Windows
+iris-cron-task,2.0.1,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+mdx2json,3.2.23,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+dsw,3.1.87,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+webterminal,4.9.6,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+isc.json,2.0.0,New South Wales,AU,Parramatta,1,IRIS for Windows (x86-64) 2023.1 (Build 228U) Fri Apr 7 2023 11:16:02 EDT,2023.1,Windows
+isc.ipm.js,1.1.2,New South Wales,AU,Parramatta,1,IRIS for Windows (x86-64) 2023.1 (Build 228U) Fri Apr 7 2023 11:16:02 EDT,2023.1,Windows
+isc.rest,1.2.1,New South Wales,AU,Parramatta,1,IRIS for Windows (x86-64) 2023.1 (Build 228U) Fri Apr 7 2023 11:16:02 EDT,2023.1,Windows
+isc.perf.ui,1.0.1,New South Wales,AU,Parramatta,1,IRIS for Windows (x86-64) 2023.1 (Build 228U) Fri Apr 7 2023 11:16:02 EDT,2023.1,Windows
+restforms2,1.0.8,Lombardy,IT,Varese,1,IRIS for Windows (x86-64) 2020.1 (Build 217_1U) Tue May 26 2020 20:41:06 EDT,2020.1,Windows
+restforms2-ui,1.0.0,Lombardy,IT,Varese,1,IRIS for Windows (x86-64) 2020.1 (Build 217_1U) Tue May 26 2020 20:41:06 EDT,2020.1,Windows
+csvgen,1.4.1,K'alak'i T'bilisi,GE,Tbilisi,1,IRIS for UNIX (Ubuntu Server LTS for ARM64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 16:39:41 EDT,2022.2,UNIX
+zpipe,1.1.0,England,GB,Leicester,1,IRIS for Windows (x86-64) 2022.3 (Build 606U) Mon Jan 30 2023 09:12:22 EST,2022.3,Windows
+zpip,0.0.4,England,GB,Leicester,1,IRIS for Windows (x86-64) 2022.3 (Build 606U) Mon Jan 30 2023 09:12:22 EST,2022.3,Windows
+mdx2json,3.2.23,K'alak'i T'bilisi,GE,Tbilisi,1,IRIS for UNIX (Ubuntu Server LTS for ARM64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 16:39:41 EDT,2022.2,UNIX
+dsw,3.1.87,K'alak'i T'bilisi,GE,Tbilisi,1,IRIS for UNIX (Ubuntu Server LTS for ARM64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 16:39:41 EDT,2022.2,UNIX
+evshvarov-covid19-analytics,1.0.7,K'alak'i T'bilisi,GE,Tbilisi,1,IRIS for UNIX (Ubuntu Server LTS for ARM64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 16:39:41 EDT,2022.2,UNIX
+dsw,3.1.87,K'alak'i T'bilisi,GE,Tbilisi,1,IRIS for UNIX (Ubuntu Server LTS for ARM64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 16:39:41 EDT,2022.2,UNIX
+git-source-control,2.1.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server 20.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:03:40 EST,2022.1.2,UNIX
+git-source-control,2.1.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server 20.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:03:40 EST,2022.1.2,UNIX
+git-source-control,2.1.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server 20.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:03:40 EST,2022.1.2,UNIX
+iris-cron-task,2.0.1,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+webterminal,4.9.6,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+workflow-rest,1.1.1,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+workflow-ui-ngx,1.0.0,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+iris-cron-task,2.0.1,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+webterminal,4.9.6,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+workflow-rest,1.1.1,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+workflow-ui-ngx,1.0.0,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+git-source-control,2.1.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server 20.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:03:40 EST,2022.1.2,UNIX
+git-source-control,2.1.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server 20.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:03:40 EST,2022.1.2,UNIX
+zpipe,1.1.0,Tamil Nadu,IN,Chennai,1,IRIS for Windows (x86-64) 2022.3 (Build 606U) Mon Jan 30 2023 09:12:22 EST,2022.3,Windows
+zpip,0.0.4,Tamil Nadu,IN,Chennai,1,IRIS for Windows (x86-64) 2022.3 (Build 606U) Mon Jan 30 2023 09:12:22 EST,2022.3,Windows
+zpipe,1.1.0,Tamil Nadu,IN,Chennai,1,IRIS for Windows (x86-64) 2022.3 (Build 606U) Mon Jan 30 2023 09:12:22 EST,2022.3,Windows
+zpip,0.0.4,Tamil Nadu,IN,Chennai,1,IRIS for Windows (x86-64) 2022.3 (Build 606U) Mon Jan 30 2023 09:12:22 EST,2022.3,Windows
+webterminal,4.9.6,Ãle-de-France,FR,Paris,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2021.1 (Build 215U) Wed Jun 9 2021 09:49:11 EDT,2021.1,UNIX
+objectscript-openapi-definition,1.3.1,Ãle-de-France,FR,Paris,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2021.1 (Build 215U) Wed Jun 9 2021 09:49:11 EDT,2021.1,UNIX
+iris-key-uploader,1.0.3,Ãle-de-France,FR,Paris,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2021.1 (Build 215U) Wed Jun 9 2021 09:49:11 EDT,2021.1,UNIX
+webterminal,4.9.6,Ãle-de-France,FR,Paris,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2021.1 (Build 215U) Wed Jun 9 2021 09:49:11 EDT,2021.1,UNIX
+objectscript-openapi-definition,1.3.1,Ãle-de-France,FR,Paris,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2021.1 (Build 215U) Wed Jun 9 2021 09:49:11 EDT,2021.1,UNIX
+iris-key-uploader,1.0.3,Ãle-de-France,FR,Paris,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2021.1 (Build 215U) Wed Jun 9 2021 09:49:11 EDT,2021.1,UNIX
+dsw,3.1.87,K'alak'i T'bilisi,GE,Tbilisi,1,IRIS for UNIX (Ubuntu Server LTS for ARM64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 16:39:41 EDT,2022.2,UNIX
+zpip,0.0.4,Tamil Nadu,IN,Chennai,1,IRIS for Windows (x86-64) 2022.3 (Build 606U) Mon Jan 30 2023 09:12:22 EST,2022.3,Windows
+objectscript-openapi-definition,1.3.1,Gauteng,ZA,Pretoria,1,IRIS for UNIX (Ubuntu Server 22.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:10:33 EST,2022.1.2,UNIX
+objectscript-openapi-definition,1.3.1,Gauteng,ZA,Pretoria,1,IRIS for UNIX (Ubuntu Server 22.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:10:33 EST,2022.1.2,UNIX
+csvgen,1.5.0,K'alak'i T'bilisi,GE,Tbilisi,1,IRIS for UNIX (Ubuntu Server LTS for ARM64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 16:39:41 EDT,2022.2,UNIX
+assert-objectscript,1.0.0,Schleswig-Holstein,DE,Rellingen,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+mdx2json,3.2.23,Bavaria,DE,Nuremberg,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2020.2 (Build 211U) Fri Jun 26 2020 13:36:43 EDT,2020.2,UNIX
+dsw,3.1.87,Bavaria,DE,Nuremberg,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2020.2 (Build 211U) Fri Jun 26 2020 13:36:43 EDT,2020.2,UNIX
+zpipe,1.1.0,England,GB,London,1,IRIS for Windows (x86-64) 2023.1 (Build 229U) Fri Apr 14 2023 17:24:03 EDT,2023.1,Windows
+zpip,0.0.4,England,GB,London,1,IRIS for Windows (x86-64) 2023.1 (Build 229U) Fri Apr 14 2023 17:24:03 EDT,2023.1,Windows
+webterminal,4.9.6,South Holland,NL,Leiderdorp,1,IRIS for Windows (x86-64) 2022.1.2 (Build 574) Fri Jan 13 2023 15:13:17 EST,2022.1.2,Windows
+isc.json,2.0.0,South Holland,NL,Leiderdorp,1,IRIS for Windows (x86-64) 2022.1.2 (Build 574) Fri Jan 13 2023 15:13:17 EST,2022.1.2,Windows
+isc.rest,1.2.1,South Holland,NL,Leiderdorp,1,IRIS for Windows (x86-64) 2022.1.2 (Build 574) Fri Jan 13 2023 15:13:17 EST,2022.1.2,Windows
+git-source-control,2.1.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server 20.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:03:40 EST,2022.1.2,UNIX
+iris-deploy-tools,1.0.1,Andalusia,ES,MÃ¡laga,1,IRIS for Windows (x86-64) 2021.1 (Build 215U) Wed Jun 9 2021 09:39:22 EDT,2021.1,Windows
+iris-deploy-tools,1.0.1,Andalusia,ES,MÃ¡laga,1,IRIS for Windows (x86-64) 2021.1 (Build 215U) Wed Jun 9 2021 09:39:22 EDT,2021.1,Windows
+iris-apipub,1.1.52,Sao Paulo,BR,SÃ£o Paulo,1,IRIS for UNIX (Apple Mac OS X for x86-64) 2021.1.2 (Build 336_0_21564U) Tue Apr 12 2022 12:15:41 EDT,2021.1.2,UNIX
+yaml-utils,0.1.3,Iowa,US,Council Bluffs,1,IRIS for UNIX (Red Hat Enterprise Linux 9 for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:13:22 EST,2022.1.2,UNIX
+zpm-registry,1.2.5,Iowa,US,Council Bluffs,1,IRIS for UNIX (Red Hat Enterprise Linux 9 for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:13:22 EST,2022.1.2,UNIX
+objectscript-json-trace-viewer,1.0.1,Santiago Metropolitan,CL,Lampa,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1 (Build 140U) Mon Mar 7 2022 01:25:20 EST,2022.1,UNIX
+objectscript-json-trace-viewer,1.0.1,Catalonia,ES,Sant Quirze del Valles,1,IRIS for Windows (x86-64) 2022.3 (Build 606U) Mon Jan 30 2023 09:08:55 EST,2022.3,Windows
+mdx2json,3.2.23,Bavaria,DE,Nuremberg,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2020.2 (Build 211U) Fri Jun 26 2020 13:36:43 EDT,2020.2,UNIX
+dsw,3.1.87,Bavaria,DE,Nuremberg,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2020.2 (Build 211U) Fri Jun 26 2020 13:36:43 EDT,2020.2,UNIX
+mdx2json,3.2.23,Bavaria,DE,Nuremberg,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2020.2 (Build 211U) Fri Jun 26 2020 13:36:43 EDT,2020.2,UNIX
+dsw,3.1.87,Bavaria,DE,Nuremberg,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2020.2 (Build 211U) Fri Jun 26 2020 13:36:43 EDT,2020.2,UNIX
+zpm-registry,1.2.5,Michigan,US,Ishpeming,1,IRIS for Windows (x86-64) 2022.1 (Build 209U) Tue May 31 2022 12:16:40 EDT,2022.1,Windows
+git-source-control,2.1.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server 20.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:03:40 EST,2022.1.2,UNIX
+git-source-control,2.1.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server 20.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:03:40 EST,2022.1.2,UNIX
+git-source-control,2.1.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server 20.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:03:40 EST,2022.1.2,UNIX
+git-source-control,2.1.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server 20.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:03:40 EST,2022.1.2,UNIX
+git-source-control,2.1.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server 20.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:03:40 EST,2022.1.2,UNIX
+git-source-control,2.1.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server 20.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:03:40 EST,2022.1.2,UNIX
+yaml-utils,0.1.3,Michigan,US,Ishpeming,1,IRIS for Windows (x86-64) 2022.1 (Build 209U) Tue May 31 2022 12:16:40 EDT,2022.1,Windows
+zpm-registry,1.2.5,Michigan,US,Ishpeming,1,IRIS for Windows (x86-64) 2022.1 (Build 209U) Tue May 31 2022 12:16:40 EDT,2022.1,Windows
+git-source-control,2.1.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server 20.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:03:40 EST,2022.1.2,UNIX
+git-source-control,2.1.1,Virginia,US,Ashburn,1,IRIS for Windows (x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:00:26 EST,2022.1.2,Windows
+git-source-control,2.1.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server 20.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:03:40 EST,2022.1.2,UNIX
+git-source-control,2.1.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server 20.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:03:40 EST,2022.1.2,UNIX
+git-source-control,2.1.1,Virginia,US,Ashburn,1,IRIS for Windows (x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:00:26 EST,2022.1.2,Windows
+git-source-control,2.1.1,Virginia,US,Ashburn,1,IRIS for Windows (x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:00:26 EST,2022.1.2,Windows
+git-source-control,2.1.1,Virginia,US,Ashburn,1,IRIS for Windows (x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:00:26 EST,2022.1.2,Windows
+git-source-control,2.1.1,Virginia,US,Ashburn,1,IRIS for Windows (x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:00:26 EST,2022.1.2,Windows
+git-source-control,2.1.1,Virginia,US,Ashburn,1,IRIS for Windows (x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:00:26 EST,2022.1.2,Windows
+git-source-control,2.1.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server 20.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:03:40 EST,2022.1.2,UNIX
+mdx2json,3.2.23,Bavaria,DE,Nuremberg,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2020.2 (Build 211U) Fri Jun 26 2020 13:36:43 EDT,2020.2,UNIX
+dsw,3.1.87,Bavaria,DE,Nuremberg,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2020.2 (Build 211U) Fri Jun 26 2020 13:36:43 EDT,2020.2,UNIX
+mdx2json,3.2.23,Bavaria,DE,Nuremberg,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2020.2 (Build 211U) Fri Jun 26 2020 13:36:43 EDT,2020.2,UNIX
+dsw,3.1.87,Bavaria,DE,Nuremberg,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2020.2 (Build 211U) Fri Jun 26 2020 13:36:43 EDT,2020.2,UNIX
+iris-cron-task,2.0.1,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+webterminal,4.9.6,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+workflow-rest,1.1.1,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+workflow-ui-ngx,1.0.0,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+iris-cron-task,2.0.1,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+webterminal,4.9.6,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+workflow-rest,1.1.1,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+workflow-ui-ngx,1.0.0,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+git-source-control,2.1.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server 20.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:03:40 EST,2022.1.2,UNIX
+iris-cron-task,2.0.1,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+webterminal,4.9.6,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+workflow-rest,1.1.1,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+workflow-ui-ngx,1.0.0,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+iris-cron-task,2.0.1,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+webterminal,4.9.6,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+workflow-rest,1.1.1,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+workflow-ui-ngx,1.0.0,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+iris-cron-task,2.0.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+webterminal,4.9.6,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+workflow-rest,1.1.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+workflow-ui-ngx,1.0.0,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+iris-cron-task,2.0.1,Iowa,US,Des Moines,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+webterminal,4.9.6,Iowa,US,Des Moines,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+workflow-rest,1.1.1,Iowa,US,Des Moines,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+workflow-ui-ngx,1.0.0,Iowa,US,Des Moines,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+git-source-control,2.1.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server 20.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:03:40 EST,2022.1.2,UNIX
+git-source-control,2.1.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server 20.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:03:40 EST,2022.1.2,UNIX
+git-source-control,2.1.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server 20.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:03:40 EST,2022.1.2,UNIX
+git-source-control,2.1.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server 20.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:03:40 EST,2022.1.2,UNIX
+git-source-control,2.1.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server 20.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:03:40 EST,2022.1.2,UNIX
+yaml-utils,0.1.3,Michigan,US,Ishpeming,1,IRIS for Windows (x86-64) 2023.1 (Build 229U) Fri Apr 14 2023 17:17:41 EDT,2023.1,Windows
+zpm-registry,1.2.5,Michigan,US,Ishpeming,1,IRIS for Windows (x86-64) 2023.1 (Build 229U) Fri Apr 14 2023 17:17:41 EDT,2023.1,Windows
+swagger-ui,1.0.0,Michigan,US,Ishpeming,1,IRIS for Windows (x86-64) 2023.1 (Build 229U) Fri Apr 14 2023 17:17:41 EDT,2023.1,Windows
+webterminal,4.9.6,Texas,US,Katy,1,IRIS for UNIX (Ubuntu Server LTS for ARM64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:20:01 EDT,2023.1,UNIX
+webterminal,4.9.6,Texas,US,Katy,1,IRIS for UNIX (Ubuntu Server LTS for ARM64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:20:01 EDT,2023.1,UNIX
+mdx2json,3.2.24,Dubai,AE,Dubai,1,IRIS for Windows (x86-64) 2020.1 (Build 215_0_20146U) Tue Aug 18 2020 16:41:37 EDT,2020.1,Windows
+dsw,3.1.87,Dubai,AE,Dubai,1,IRIS for Windows (x86-64) 2020.1 (Build 215_0_20146U) Tue Aug 18 2020 16:41:37 EDT,2020.1,Windows
+iris-cron-task,2.0.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+webterminal,4.9.6,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+workflow-rest,1.1.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+workflow-ui-ngx,1.0.0,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+iris-cron-task,2.0.1,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+webterminal,4.9.6,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+workflow-rest,1.1.1,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+workflow-ui-ngx,1.0.0,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+sqlbuilder,0.2.2,Catalonia,ES,Sant Quirze del Valles,1,IRIS for Windows (x86-64) 2022.3 (Build 606U) Mon Jan 30 2023 09:08:55 EST,2022.3,Windows
+dataset-finance,1.0.8,Catalonia,ES,Sant Quirze del Valles,1,IRIS for Windows (x86-64) 2022.3 (Build 606U) Mon Jan 30 2023 09:08:55 EST,2022.3,Windows
+csvgen,1.5.0,Catalonia,ES,Sant Quirze del Valles,1,IRIS for Windows (x86-64) 2022.3 (Build 606U) Mon Jan 30 2023 09:08:55 EST,2022.3,Windows
+dataset-health,1.2.1,Catalonia,ES,Sant Quirze del Valles,1,IRIS for Windows (x86-64) 2022.3 (Build 606U) Mon Jan 30 2023 09:08:55 EST,2022.3,Windows
+dataset-apachelog,1.0.5,Catalonia,ES,Sant Quirze del Valles,1,IRIS for Windows (x86-64) 2022.3 (Build 606U) Mon Jan 30 2023 09:08:55 EST,2022.3,Windows
+dataset-titanic,1.0.0,Catalonia,ES,Sant Quirze del Valles,1,IRIS for Windows (x86-64) 2022.3 (Build 606U) Mon Jan 30 2023 09:08:55 EST,2022.3,Windows
+dataset-medical,1.0.5,Catalonia,ES,Sant Quirze del Valles,1,IRIS for Windows (x86-64) 2022.3 (Build 606U) Mon Jan 30 2023 09:08:55 EST,2022.3,Windows
+dataset-countries,1.1.0,Catalonia,ES,Sant Quirze del Valles,1,IRIS for Windows (x86-64) 2022.3 (Build 606U) Mon Jan 30 2023 09:08:55 EST,2022.3,Windows
+posts-and-tags,0.1.2,Catalonia,ES,Sant Quirze del Valles,1,IRIS for Windows (x86-64) 2022.3 (Build 606U) Mon Jan 30 2023 09:08:55 EST,2022.3,Windows
+bdb-sql-utils,0.5.6,Catalonia,ES,Sant Quirze del Valles,1,IRIS for Windows (x86-64) 2022.3 (Build 606U) Mon Jan 30 2023 09:08:55 EST,2022.3,Windows
+swagger-ui,1.0.0,Catalonia,ES,Sant Quirze del Valles,1,IRIS for Windows (x86-64) 2022.3 (Build 606U) Mon Jan 30 2023 09:08:55 EST,2022.3,Windows
+sql-rest,1.1.1,Catalonia,ES,Sant Quirze del Valles,1,IRIS for Windows (x86-64) 2022.3 (Build 606U) Mon Jan 30 2023 09:08:55 EST,2022.3,Windows
+webterminal,4.9.6,Massachusetts,US,Boston,1,IRIS for UNIX (Ubuntu Server LTS for ARM64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:05:12 EST,2022.3,UNIX
+zpipe,1.1.0,Massachusetts,US,Boston,1,IRIS for UNIX (Ubuntu Server LTS for ARM64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:05:12 EST,2022.3,UNIX
+zpip,0.0.4,Massachusetts,US,Boston,1,IRIS for UNIX (Ubuntu Server LTS for ARM64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:05:12 EST,2022.3,UNIX
+io-redirect,1.0.2,Uusimaa,FI,Helsinki,1,IRIS for UNIX (Ubuntu Server 22.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:27:58 EST,2022.1.2,UNIX
+objectscript-openapi-definition,1.3.1,Uusimaa,FI,Helsinki,1,IRIS for UNIX (Ubuntu Server 22.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:27:58 EST,2022.1.2,UNIX
+sslclient,1.0.4,Uusimaa,FI,Helsinki,1,IRIS for UNIX (Ubuntu Server 22.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:27:58 EST,2022.1.2,UNIX
+swagger-converter-cli,0.0.2,Uusimaa,FI,Helsinki,1,IRIS for UNIX (Ubuntu Server 22.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:27:58 EST,2022.1.2,UNIX
+swagger-validator-cli,0.0.1,Uusimaa,FI,Helsinki,1,IRIS for UNIX (Ubuntu Server 22.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:27:58 EST,2022.1.2,UNIX
+yaml-utils,0.1.3,Uusimaa,FI,Helsinki,1,IRIS for UNIX (Ubuntu Server 22.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:27:58 EST,2022.1.2,UNIX
+openapi-common-lib,1.0.1,Uusimaa,FI,Helsinki,1,IRIS for UNIX (Ubuntu Server 22.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:27:58 EST,2022.1.2,UNIX
+openapi-server-gen,1.0.0,Uusimaa,FI,Helsinki,1,IRIS for UNIX (Ubuntu Server 22.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:27:58 EST,2022.1.2,UNIX
+objectscript-openapi-definition,1.3.1,Uusimaa,FI,Helsinki,1,IRIS for UNIX (Ubuntu Server 22.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:27:58 EST,2022.1.2,UNIX
+io-redirect,1.0.2,Uusimaa,FI,Helsinki,1,IRIS for UNIX (Ubuntu Server 22.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:27:58 EST,2022.1.2,UNIX
+sslclient,1.0.4,Uusimaa,FI,Helsinki,1,IRIS for UNIX (Ubuntu Server 22.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:27:58 EST,2022.1.2,UNIX
+swagger-converter-cli,0.0.2,Uusimaa,FI,Helsinki,1,IRIS for UNIX (Ubuntu Server 22.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:27:58 EST,2022.1.2,UNIX
+swagger-validator-cli,0.0.1,Uusimaa,FI,Helsinki,1,IRIS for UNIX (Ubuntu Server 22.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:27:58 EST,2022.1.2,UNIX
+yaml-utils,0.1.3,Uusimaa,FI,Helsinki,1,IRIS for UNIX (Ubuntu Server 22.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:27:58 EST,2022.1.2,UNIX
+openapi-common-lib,1.0.1,Uusimaa,FI,Helsinki,1,IRIS for UNIX (Ubuntu Server 22.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:27:58 EST,2022.1.2,UNIX
+openapi-server-gen,1.0.0,Uusimaa,FI,Helsinki,1,IRIS for UNIX (Ubuntu Server 22.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:27:58 EST,2022.1.2,UNIX
+openapi-client-gen,2.1.0,Uusimaa,FI,Helsinki,1,IRIS for UNIX (Ubuntu Server 22.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:27:58 EST,2022.1.2,UNIX
+openapi-suite,1.0.0,Uusimaa,FI,Helsinki,1,IRIS for UNIX (Ubuntu Server 22.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:27:58 EST,2022.1.2,UNIX
+swagger-ui,1.0.0,Uusimaa,FI,Helsinki,1,IRIS for UNIX (Ubuntu Server 22.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:27:58 EST,2022.1.2,UNIX
+webterminal,4.9.6,National Capital Territory of Delhi,IN,Delhi,1,IRIS for Windows (x86-64) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:37:55 EDT,2022.1.3,Windows
+samples-bi,1.0.1,Western Cape,ZA,Cape Town,1,IRIS for Windows (x86-64) 2022.1.1 (Build 374U) Tue Oct 18 2022 17:39:18 EDT,2022.1.1,Windows
+mdx2json,3.2.24,England,GB,London,1,IRIS for UNIX (Red Hat Enterprise Linux 8 for x86-64) 2022.1 (Build 209_0_21877U) Tue Sep 6 2022 12:12:34 EDT,2022.1,UNIX
+dsw,3.1.88,England,GB,London,1,IRIS for UNIX (Red Hat Enterprise Linux 8 for x86-64) 2022.1 (Build 209_0_21877U) Tue Sep 6 2022 12:12:34 EDT,2022.1,UNIX
+mdx2json,3.2.24,Bavaria,DE,Wallenfels,1,IRIS for Windows (x86-64) 2023.1 (Build 229U) Fri Apr 14 2023 17:17:41 EDT,2023.1,Windows
+dsw,3.1.88,Bavaria,DE,Wallenfels,1,IRIS for Windows (x86-64) 2023.1 (Build 229U) Fri Apr 14 2023 17:17:41 EDT,2023.1,Windows
+mdx2json,3.2.24,Bavaria,DE,Wallenfels,1,IRIS for Windows (x86-64) 2021.1 (Build 215_0_21379U) Wed Jan 19 2022 14:56:59 EST,2021.1,Windows
+dsw,3.1.88,Bavaria,DE,Wallenfels,1,IRIS for Windows (x86-64) 2021.1 (Build 215_0_21379U) Wed Jan 19 2022 14:56:59 EST,2021.1,Windows
+git-source-control,2.1.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server 20.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:03:40 EST,2022.1.2,UNIX
+swagger-ui,1.0.0,Sao Paulo,BR,SÃ£o Paulo,1,IRIS for UNIX (Ubuntu Server LTS for ARM64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:05:12 EST,2022.3,UNIX
+iris-apipub,1.1.53,Sao Paulo,BR,SÃ£o Paulo,1,IRIS for UNIX (Ubuntu Server LTS for ARM64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:05:12 EST,2022.3,UNIX
+webterminal,4.9.6,Sao Paulo,BR,SÃ£o Paulo,1,IRIS for UNIX (Ubuntu Server LTS for ARM64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:05:12 EST,2022.3,UNIX
+swagger-ui,1.0.0,Florida,US,Tallahassee,1,IRIS for Windows (x86-64) 2020.1.1 (Build 408_0_21322) Mon Dec 13 2021 14:26:49 EST,2020.1.1,Windows
+testcoverage,2.1.3,Massachusetts,US,Boston,1,IRIS for Windows (x86-64) 2022.1 (Build 209U) Tue May 31 2022 12:16:40 EDT,2022.1,Windows
+git-source-control,2.1.1,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server 20.04 LTS for x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:03:40 EST,2022.1.2,UNIX
+webterminal,4.9.6,New South Wales,AU,Parramatta,1,IRIS for Windows (x86-64) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:00:26 EST,2022.1.2,Windows
+git-source-control,2.1.1,Limburg,NL,Heerlen,1,IRIS for Windows (x86-64) 2023.1 (Build 229U) Fri Apr 14 2023 17:17:41 EDT,2023.1,Windows
+iris-cron-task,2.0.1,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+webterminal,4.9.6,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+workflow-rest,1.1.1,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+workflow-ui-ngx,1.0.0,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+iris-cron-task,2.0.1,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+webterminal,4.9.6,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+workflow-rest,1.1.1,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+workflow-ui-ngx,1.0.0,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+restforms2,1.0.8,Hesse,DE,Frankfurt am Main,1,IRIS for UNIX (Ubuntu Server 22.04 LTS for x86-64) 2023.1 (Build 229U) Fri Apr 14 2023 17:29:40 EDT,2023.1,UNIX
+objectscript-json-trace-viewer,1.0.1,Santiago Metropolitan,CL,Santiago,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1 (Build 140U) Mon Mar 7 2022 01:25:20 EST,2022.1,UNIX
+samples-aviation,1.0.2,Texas,US,Fresno,1,IRIS for Windows (x86-64) 2021.1 (Build 215U) Wed Jun 9 2021 09:39:22 EDT,2021.1,Windows
+webterminal,4.9.6,Ãle-de-France,FR,Paris,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2021.1 (Build 215U) Wed Jun 9 2021 09:49:11 EDT,2021.1,UNIX
+objectscript-openapi-definition,1.3.1,Ãle-de-France,FR,Paris,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2021.1 (Build 215U) Wed Jun 9 2021 09:49:11 EDT,2021.1,UNIX
+iris-key-uploader,1.0.3,Ãle-de-France,FR,Paris,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2021.1 (Build 215U) Wed Jun 9 2021 09:49:11 EDT,2021.1,UNIX
+iris-cron-task,2.0.1,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+webterminal,4.9.6,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+workflow-rest,1.1.1,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+workflow-ui-ngx,1.0.0,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+webterminal,4.9.6,Catalonia,ES,Barcelona,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+webterminal,4.9.6,Hauts-de-France,FR,Lille,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2021.1.3 (Build 389U) Wed Feb 15 2023 14:53:18 EST,2021.1.3,UNIX
+objectscript-openapi-definition,1.3.1,Hauts-de-France,FR,Lille,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2021.1.3 (Build 389U) Wed Feb 15 2023 14:53:18 EST,2021.1.3,UNIX
+iris-key-uploader,1.0.3,Hauts-de-France,FR,Lille,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2021.1.3 (Build 389U) Wed Feb 15 2023 14:53:18 EST,2021.1.3,UNIX
+webterminal,4.9.6,Hauts-de-France,FR,Lille,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2021.1.3 (Build 389U) Wed Feb 15 2023 14:53:18 EST,2021.1.3,UNIX
+objectscript-openapi-definition,1.3.1,Hauts-de-France,FR,Lille,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2021.1.3 (Build 389U) Wed Feb 15 2023 14:53:18 EST,2021.1.3,UNIX
+iris-key-uploader,1.0.3,Hauts-de-France,FR,Lille,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2021.1.3 (Build 389U) Wed Feb 15 2023 14:53:18 EST,2021.1.3,UNIX
+yaml-utils,0.1.3,Gauteng,ZA,Johannesburg,1,IRIS for UNIX (Ubuntu Server 20.04 LTS for x86-64) 2022.1 (Build 209U) Tue May 31 2022 12:21:19 EDT,2022.1,UNIX
+zpm-registry,1.2.5,Gauteng,ZA,Johannesburg,1,IRIS for UNIX (Ubuntu Server 20.04 LTS for x86-64) 2022.1 (Build 209U) Tue May 31 2022 12:21:19 EDT,2022.1,UNIX
+isc.codetidy,1.1.5,New South Wales,AU,Sydney,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:27:12 EST,2022.3,UNIX
+mdx2json,3.2.24,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+sslclient,1.0.4,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+sslclient,1.0.4,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+dsw,3.1.88,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+sslclient,1.0.4,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 198U) Wed May 3 2023 12:53:09 EDT,2023.2,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 198U) Wed May 3 2023 12:53:09 EDT,2023.2,UNIX
+sslclient,1.0.4,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 198U) Wed May 3 2023 12:53:09 EDT,2023.2,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+sslclient,1.0.4,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+mdx2json,3.2.24,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+sslclient,1.0.4,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+sslclient,1.0.4,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+sslclient,1.0.4,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+mdx2json,3.2.24,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+dsw,3.1.88,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+sslclient,1.0.4,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+mdx2json,3.2.24,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+sslclient,1.0.4,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+sslclient,1.0.4,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+dsw,3.1.88,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+sslclient,1.0.4,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+mdx2json,3.2.24,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 200U) Tue May 9 2023 14:52:00 EDT,2023.2,UNIX
+dsw,3.1.88,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 200U) Tue May 9 2023 14:52:00 EDT,2023.2,UNIX
+sslclient,1.0.4,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 200U) Tue May 9 2023 14:52:00 EDT,2023.2,UNIX
+mdx2json,3.2.24,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+dsw,3.1.88,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 198U) Wed May 3 2023 12:53:09 EDT,2023.2,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 198U) Wed May 3 2023 12:53:09 EDT,2023.2,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+sslclient,1.0.4,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+mdx2json,3.2.24,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+dsw,3.1.88,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+mdx2json,3.2.24,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+dsw,3.1.88,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+sslclient,1.0.4,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+mdx2json,3.2.24,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+dsw,3.1.88,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+mdx2json,3.2.24,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 200U) Tue May 9 2023 14:52:00 EDT,2023.2,UNIX
+dsw,3.1.88,Virginia,US,Boydton,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 200U) Tue May 9 2023 14:52:00 EDT,2023.2,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+dsw,3.1.88,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+sslclient,1.0.4,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+mdx2json,3.2.24,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+dsw,3.1.88,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+mdx2json,3.2.24,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+dsw,3.1.88,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+mdx2json,3.2.24,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+dsw,3.1.88,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+sslclient,1.0.4,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+mdx2json,3.2.24,Iowa,US,Des Moines,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,Iowa,US,Des Moines,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+sslclient,1.0.4,Iowa,US,Des Moines,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+sslclient,1.0.4,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+sslclient,1.0.4,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+mdx2json,3.2.24,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+sslclient,1.0.4,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+sslclient,1.0.4,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+mdx2json,3.2.24,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+dsw,3.1.88,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+sslclient,1.0.4,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+mdx2json,3.2.24,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+dsw,3.1.88,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 198U) Wed May 3 2023 12:53:09 EDT,2023.2,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 198U) Wed May 3 2023 12:53:09 EDT,2023.2,UNIX
+sslclient,1.0.4,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 198U) Wed May 3 2023 12:53:09 EDT,2023.2,UNIX
+mdx2json,3.2.24,Arizona,US,Phoenix,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,Arizona,US,Phoenix,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+sslclient,1.0.4,Arizona,US,Phoenix,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,Iowa,US,Des Moines,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,Iowa,US,Des Moines,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,Arizona,US,Phoenix,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+dsw,3.1.88,Arizona,US,Phoenix,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+sslclient,1.0.4,Arizona,US,Phoenix,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+sslclient,1.0.4,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+mdx2json,3.2.24,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,Arizona,US,Phoenix,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+dsw,3.1.88,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,Arizona,US,Phoenix,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+sslclient,1.0.4,Arizona,US,Phoenix,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+mdx2json,3.2.24,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+mdx2json,3.2.24,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+dsw,3.1.88,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 200U) Tue May 9 2023 14:52:00 EDT,2023.2,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 200U) Tue May 9 2023 14:52:00 EDT,2023.2,UNIX
+sslclient,1.0.4,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+sslclient,1.0.4,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 200U) Tue May 9 2023 14:52:00 EDT,2023.2,UNIX
+mdx2json,3.2.24,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+dsw,3.1.88,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+sslclient,1.0.4,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 198U) Wed May 3 2023 12:53:09 EDT,2023.2,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 198U) Wed May 3 2023 12:53:09 EDT,2023.2,UNIX
+mdx2json,3.2.24,Arizona,US,Phoenix,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,Arizona,US,Phoenix,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+sslclient,1.0.4,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+mdx2json,3.2.24,Arizona,US,Phoenix,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+dsw,3.1.88,Arizona,US,Phoenix,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,Arizona,US,Phoenix,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+dsw,3.1.88,Arizona,US,Phoenix,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+mdx2json,3.2.24,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 200U) Tue May 9 2023 14:52:00 EDT,2023.2,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 200U) Tue May 9 2023 14:52:00 EDT,2023.2,UNIX
+mdx2json,3.2.24,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+dsw,3.1.88,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+mdx2json,3.2.24,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+dsw,3.1.88,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+sslclient,1.0.4,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+mdx2json,3.2.24,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+sslclient,1.0.4,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 198U) Wed May 3 2023 12:53:09 EDT,2023.2,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 198U) Wed May 3 2023 12:53:09 EDT,2023.2,UNIX
+sslclient,1.0.4,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 198U) Wed May 3 2023 12:53:09 EDT,2023.2,UNIX
+mdx2json,3.2.24,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+dsw,3.1.88,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+sslclient,1.0.4,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+mdx2json,3.2.24,Iowa,US,Des Moines,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+dsw,3.1.88,Iowa,US,Des Moines,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+sslclient,1.0.4,Iowa,US,Des Moines,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+mdx2json,3.2.24,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+dsw,3.1.88,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+mdx2json,3.2.24,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,Virginia,US,Tappahannock,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+sslclient,1.0.4,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+sslclient,1.0.4,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+dsw,3.1.88,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+sslclient,1.0.4,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+mdx2json,3.2.24,Iowa,US,Des Moines,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,Iowa,US,Des Moines,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+sslclient,1.0.4,Iowa,US,Des Moines,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 200U) Tue May 9 2023 14:52:00 EDT,2023.2,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 200U) Tue May 9 2023 14:52:00 EDT,2023.2,UNIX
+sslclient,1.0.4,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 200U) Tue May 9 2023 14:52:00 EDT,2023.2,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+sslclient,1.0.4,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,Iowa,US,Des Moines,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+dsw,3.1.88,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,Iowa,US,Des Moines,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+mdx2json,3.2.24,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+dsw,3.1.88,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+sslclient,1.0.4,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 198U) Wed May 3 2023 12:53:09 EDT,2023.2,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 198U) Wed May 3 2023 12:53:09 EDT,2023.2,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+sslclient,1.0.4,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+mdx2json,3.2.24,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+dsw,3.1.88,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+sslclient,1.0.4,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+mdx2json,3.2.24,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,Iowa,US,Des Moines,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+dsw,3.1.88,Iowa,US,Des Moines,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+mdx2json,3.2.24,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+sslclient,1.0.4,Iowa,US,Des Moines,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+dsw,3.1.88,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+mdx2json,3.2.24,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+sslclient,1.0.4,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+mdx2json,3.2.24,Iowa,US,Des Moines,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,Iowa,US,Des Moines,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 200U) Tue May 9 2023 14:52:00 EDT,2023.2,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.2 (Build 200U) Tue May 9 2023 14:52:00 EDT,2023.2,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+dsw,3.1.88,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.2 (Build 574U) Fri Jan 13 2023 15:24:04 EST,2022.1.2,UNIX
+mdx2json,3.2.24,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+dsw,3.1.88,California,US,San Jose,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.1.3 (Build 668U) Fri Apr 7 2023 12:44:49 EDT,2022.1.3,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2023.1 (Build 229U) Fri Apr 14 2023 17:37:52 EDT,2023.1,UNIX
+mdx2json,3.2.24,Iowa,US,Des Moines,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+dsw,3.1.88,Iowa,US,Des Moines,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.3 (Build 606U) Mon Jan 30 2023 09:15:36 EST,2022.3,UNIX
+mdx2json,3.2.24,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
+dsw,3.1.88,Texas,US,San Antonio,1,IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2022.2 (Build 368U) Fri Oct 21 2022 17:18:04 EDT,2022.2,UNIX
