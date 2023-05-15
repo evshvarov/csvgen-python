@@ -14,11 +14,11 @@ USER>zpm "install csvgenpy"
 ## How to work with it
 ### import csv
 ```
-w ##class(shvarov.csvgenpy.generate).Generate(filename,tablename,[schemaname],[server=embedded_python_by_default],[append=0])
+w ##class(shvarov.csvgenpy.csv).Generate(filename,tablename,[schemaname],[server=embedded_python_by_default],[append=0])
 ```
 
 Example:
-USER>w ##class(shvarov.csvgenpy.generate).Generate("/home/irisowner/dev/data/countries.csv","countries")
+USER>w ##class(shvarov.csvgenpy.csv).Generate("/home/irisowner/dev/data/countries.csv","countries")
 
 Also can be called directly from python:
 $ irispython /home/irisowner/dev/app/csvgen.py

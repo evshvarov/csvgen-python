@@ -3,13 +3,12 @@
   <Document name="csvgenpy.ZPM">
     <Module>
       <Name>csvgenpy</Name>
-      <Version>1.0.0</Version>
+      <Version>1.1.0</Version>
       <Description>The simplest template to run embedded python</Description>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
       <Resource Name="shvarov.csvgenpy.PKG"/>
       <FileCopy Name="app/" Target="${libdir}python/"/>
-      <FileCopy Name="data/" Target="${libdir}data/"/>
       <UnitTest Name="/tests" Package="Test.shvarov.csvgenpy" Phase="test"/>
     </Module>
   </Document>

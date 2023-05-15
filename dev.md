@@ -94,3 +94,5 @@ do ##class(%SYS.Python).Shell()
 
 
 zpm "test csvgenpy -D UnitTest.Case=shvarov.csvgenpy.UnitTests.Testcsv:TestTimeStamp -only -v"
+
+zpm "test csvgenpy"

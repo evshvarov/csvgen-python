@@ -1,4 +1,4 @@
-Class shvarov.csvgenpy.generate
+Class shvarov.csvgenpy.csv
 {
 
 /// CSVGENPY.GENERATE
@@ -58,7 +58,7 @@ ClassMethod TestRun() As %Status
         set fn="/home/irisowner/dev/data/titanic.csv"
 	    set tname="sqltest"
         ;do ##class(Test.shvarov.csvgenpy.Testcsv).DeleteTable("SQLUSER_"_tname)
-	    set rc=##class(shvarov.csvgenpy.generate).Generate(fn,tname)
+	    set rc=##class(shvarov.csvgenpy.csv).Generate(fn,tname)
         write !,rc
 	Return sc
 }
