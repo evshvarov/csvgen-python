@@ -17,8 +17,11 @@ USER>zpm "install csvgenpy"
 w ##class(shvarov.csvgenpy.csv).Generate(filename,tablename,[schemaname],[server=embedded_python_by_default],[append=0])
 ```
 
-Example:
+Examples. Import from file:
 USER>w ##class(shvarov.csvgenpy.csv).Generate("/home/irisowner/dev/data/countries.csv","countries")
+
+Import from URL:
+USER>do ##class(shvarov.csvgenpy.generate).Generate("https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv","titanic","data")
 
 Also can be called directly from python:
 $ irispython /home/irisowner/dev/app/csvgen.py
