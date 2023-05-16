@@ -3,7 +3,7 @@
   <Document name="csvgenpy.ZPM">
     <Module>
       <Name>csvgenpy</Name>
-      <Version>1.1.0</Version>
+      <Version>1.1.1</Version>
       <Description>The simplest template to run embedded python</Description>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
