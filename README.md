@@ -21,7 +21,7 @@ Examples. Import from file:
 USER>w ##class(shvarov.csvgenpy.csv).Generate("/home/irisowner/dev/data/countries.csv","countries")
 
 Import from URL:
-USER>do ##class(shvarov.csvgenpy.generate).Generate("https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv","titanic","data")
+USER>w ##class(shvarov.csvgenpy.csv).Generate("https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv","titanic","data")
 
 Also can be called directly from python:
 $ irispython /home/irisowner/dev/app/csvgen.py
