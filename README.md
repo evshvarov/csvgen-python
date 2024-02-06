@@ -13,7 +13,7 @@ USER>zpm "install csvgenpy"
 
 ## API
 ```
-w ##class(shvarov.csvgenpy.csv).Generate(source, dest_table_name, [schema_name], [server=embedded_python_by_default], [append=0])
+w ##class(shvarov.csvgenpy.csv).Generate(filename_or_url, dest_table_name, [schema_name], [server=embedded_python_by_default], [append=0])
 ```
 Parameters in brackets are optional.
 
