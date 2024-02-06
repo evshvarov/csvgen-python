@@ -11,26 +11,34 @@ USER>zpm "install csvgenpy"
 ```
 
 
-## How to work with it
-### import csv
+## API
 ```
-w ##class(shvarov.csvgenpy.csv).Generate(filename,tablename,[schemaname],[server=embedded_python_by_default],[append=0])
+w ##class(shvarov.csvgenpy.csv).Generate(filename_or_url, dest_table_name, [schema_name], [server=embedded_python_by_default], [append=0])
+```
+Parameters in brackets are optional.
+
+## Examples
+
+### Import from file
+```
+USER>do ##class(shvarov.csvgenpy.csv).Generate("/home/irisowner/dev/data/countries.csv","countries")
 ```
 
-Examples. Import from file:
-USER>w ##class(shvarov.csvgenpy.csv).Generate("/home/irisowner/dev/data/countries.csv","countries")
+### Import from URL
+```
+USER>do ##class(shvarov.csvgenpy.csv).Generate("https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv","titanic","data")
+```
 
-Import from URL:
-USER>do ##class(shvarov.csvgenpy.generate).Generate("https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv","titanic","data")
-
-Also can be called directly from python:
+## Call directly from python:
+```
 $ irispython /home/irisowner/dev/app/csvgen.py
+```
 
 or
+
 ```
 import csvgen
-
-generate('file.csv','table_name','schema_name')
+generate('file.csv','dest_table_name','schema_name')
 
 ```
 
@@ -43,7 +51,7 @@ USER>zpm "test csvgenpy"
 
 The repository is ready for collaboration using Docker
 
-### Installation docker
+### Docker installation
 
 Clone/git pull the repo into any local directory
 
