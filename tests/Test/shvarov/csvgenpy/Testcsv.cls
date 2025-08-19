@@ -14,6 +14,17 @@ ClassMethod DeleteTable(tname)
 	set status=##class(%SQL.Statement).%ExecDirect(,"DROP TABLE "_tname)
 }
 
+Method TestPrimaryKey()
+{
+	Set tExpected="AL"
+	set fn="/home/irisowner/dev/data/countries_dspl.csv"
+	set tname="sqltest"
+	set rc=##class(shvarov.csvgenpy.csv).Generate(fn,tname,,,,,"name")
+	set instance=##class(csvgen.sqltest).%OpenId("Albania")
+	set tResults=instance.country
+	Do $$$AssertEquals(tResults,tExpected,tExpected_" = "_tResults)
+}
+
 Method TestTimeStamp()
 {
 	Set tExpected=9

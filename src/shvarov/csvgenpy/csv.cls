@@ -3,7 +3,8 @@ Class shvarov.csvgenpy.csv
 
 /// CSVGENPY.GENERATE
 /// filename - file or URL to import
-ClassMethod Generate(filename, tablename = "csvgenpy", schema = "csvgen", server = "iris+emb:///", append As %Boolean = 0, header = 1) As %Status
+/// primarykey - the name of the column to introduce a primary key for
+ClassMethod Generate(filename, tablename = "csvgenpy", schema = "csvgen", server = "iris+emb:///", append As %Boolean = 0, header = 1, primarykey = "") As %Status
 {
         Set sc = $$$OK
         Set csv = ##class(%SYS.Python).Import("csvgen")
@@ -14,7 +15,72 @@ ClassMethod Generate(filename, tablename = "csvgenpy", schema = "csvgen", server
         }
 
         do csv.importcsv(filename,tablename,server,schema,$case(append,1:"append",:"replace"),header)
+        //B "L"
+        // add primary key if we are not appending
+        if primarykey'="",'append {
+            do ..DeleteAllData(schema_"."_tablename)
+            do ..DropDDLIndex(schema_"."_tablename)
+            set sc=..AddPrimaryKey(schema_"."_tablename,primarykey)
+            do csv.importcsv(filename,tablename,server,schema,"append",header)
+        }
         Return sc
+}
+
+ClassMethod DropDDLIndex(table) As %Status
+{
+    //B "L"
+    set st=$$$OK
+    set tStatement = ##class(%SQL.Statement).%New()
+    set query = "DROP INDEX ""%%DDLBEIndex"" ON TABLE "_table
+    set qStatus = tStatement.%Prepare(query)
+    if qStatus '= 1 return qStatus
+    set rset=tStatement.%Execute()
+    if rset.%SQLCODE < 0 {
+        write "Error dropping index: "_rset.%SQLCODE_" "_rset.%Message
+        set ex=##class(%Exception.SQL).CreateFromSQLCODE(%sqlcode,%message)
+        return ex.%AsStatus()
+    }
+    return st
+}
+
+ClassMethod DeleteAllData(table) As %Status
+{
+    set st=$$$OK
+    set tStatement = ##class(%SQL.Statement).%New()
+    set query = "DELETE FROM "_table
+    set qStatus = tStatement.%Prepare(query)
+    if qStatus '= 1 return qStatus
+    set rset=tStatement.%Execute()
+    if rset.%SQLCODE < 0 {
+        write "Error deleting data: "_rset.%SQLCODE_" "_rset.%Message
+        set ex=##class(%Exception.SQL).CreateFromSQLCODE(%sqlcode,%message)
+        return ex.%AsStatus()
+    }
+    return st
+}
+
+ClassMethod AddPrimaryKey(table, column) As %Status
+{
+    // turn on DDLPKeyNotIDKey option
+    set st=$$$OK
+    do $System.SQL.Util.SetOption("DDLPKeyNotIDKey",0,.oldoption)
+    try {
+    set tStatement = ##class(%SQL.Statement).%New()
+    set query = "ALTER Table "_table_" ADD PRIMARY KEY ("_column_")"
+    $$$TOE(st,tStatement.%Prepare(query))
+    set rset=tStatement.%Execute()
+    if rset.%SQLCODE < 0 {
+        write "Error adding primary key: "_rset.%SQLCODE_" "_rset.%Message
+       set ex=##class(%Exception.SQL).CreateFromSQLCODE(%sqlcode,%message)
+        $$$ThrowStatus(ex.%AsStatus)
+        }
+    }
+    catch ex {
+        set st=ex.%AsStatus()
+    }
+    do $System.SQL.Util.SetOption("DDLPKeyNotIDKey",oldoption)
+     
+    return st
 }
 
 ClassMethod StreamToFile(stream As %Stream, ByRef filename As %String) As %Status

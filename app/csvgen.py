@@ -17,6 +17,7 @@ def importcsv(file_name,table_name='csv_import',connect_line='iris+emb:///',sche
     if header==True:
         df = pd.read_csv(file_name)
         df.columns = df.columns.str.replace('.', '_').str.replace('-', '_').str.replace(' ', '_').str.lower()
+    
 
     df.to_sql(name=table_name, con=engine,schema=schema,if_exists=if_exists, index=False)
     return df

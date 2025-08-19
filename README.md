@@ -42,7 +42,22 @@ generate('file.csv','dest_table_name','schema_name')
 
 ```
 
+## primary key import
+If one of the csv cols should be a primary key provide its name as a last parameter, e.g.
+
+```objectscript
+do ##class(shvarov.csvgenpy.csv).Generate("/home/irisowner/dev/data/countries_dspl small.csv","countries","data",,,,"name")
+```
+
+so instances from data.countries could be open by country names, e.g.:
+```objectscript
+set country=##class(csvgen.sqltest).%OpenId("Albania")
+write country.country
+AL
+```
+
 ## Run tests
+Tests can be found in https://github.com/evshvarov/csvgen-python/blob/52a95662dddce63b6c8227e420f3ef2f8850f35f/tests/Test/shvarov/csvgenpy/Testcsv.cls
 
 USER>zpm "test csvgenpy"
 

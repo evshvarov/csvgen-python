@@ -96,3 +96,22 @@ do ##class(%SYS.Python).Shell()
 zpm "test csvgenpy -D UnitTest.Case=shvarov.csvgenpy.UnitTests.Testcsv:TestTimeStamp -only -v"
 
 zpm "test csvgenpy"
+
+
+
+do ##class(shvarov.csvgenpy.csv).Generate("/home/irisowner/dev/data/countries_dspl.csv","countries","shvarov",,1)
+do ##class(shvarov.csvgenpy.csv).Generate("/home/irisowner/dev/data/countries_dspl small.csv","countries","shvarov",,1)
+
+do ##class(shvarov.csvgenpy.csv).Generate("/home/irisowner/dev/data/countries_dspl small.csv","countries","shvarov",,,,"name")
+
+do ##class(shvarov.csvgenpy.csv).Generate("/home/irisowner/dev/data/organisations.csv","orgs","shvarov",,1)
+
+do ##class(shvarov.csvgenpy.csv).Generate("/home/irisowner/dev/data/organisations commas.csv","orgs","shvarov",,1)
+do ##class(shvarov.csvgenpy.csv).Generate("/home/irisowner/dev/data/organisations commas small.csv","orgs","shvarov",,1)
+
+alter table add primary key (name)
+
+Index COUNTRIESPKEY1 On name [ PrimaryKey, SqlName = COUNTRIES_PKEY1, Type = index, Unique ];
+
+
+do ##class(bdb.sql.InferSchema).BuildAll("/home/irisowner/dev/data/organisations.csv", { "verbose": 1, "targetSchema": "data" })
