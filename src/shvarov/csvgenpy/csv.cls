@@ -31,14 +31,14 @@ ClassMethod DropDDLIndex(table) As %Status
     //B "L"
     set st=$$$OK
     set tStatement = ##class(%SQL.Statement).%New()
-    set query = "DROP INDEX ""%%DDLBEIndex"" ON TABLE "_table
+    set query = "DROP INDEX IF EXISTS ""%%DDLBEIndex"" ON TABLE "_table
     set qStatus = tStatement.%Prepare(query)
     if qStatus '= 1 return qStatus
     set rset=tStatement.%Execute()
     if rset.%SQLCODE < 0 {
         write "Error dropping index: "_rset.%SQLCODE_" "_rset.%Message
-        set ex=##class(%Exception.SQL).CreateFromSQLCODE(%sqlcode,%message)
-        return ex.%AsStatus()
+        set ex=##class(%Exception.SQL).CreateFromSQLCODE(rset.%SQLCODE,rset.%Message)
+        return ex.AsStatus()
     }
     return st
 }
@@ -53,8 +53,8 @@ ClassMethod DeleteAllData(table) As %Status
     set rset=tStatement.%Execute()
     if rset.%SQLCODE < 0 {
         write "Error deleting data: "_rset.%SQLCODE_" "_rset.%Message
-        set ex=##class(%Exception.SQL).CreateFromSQLCODE(%sqlcode,%message)
-        return ex.%AsStatus()
+        set ex=##class(%Exception.SQL).CreateFromSQLCODE(rset.%SQLCODE,rset.%Message)
+        return ex.AsStatus()
     }
     return st
 }
@@ -71,12 +71,12 @@ ClassMethod AddPrimaryKey(table, column) As %Status
     set rset=tStatement.%Execute()
     if rset.%SQLCODE < 0 {
         write "Error adding primary key: "_rset.%SQLCODE_" "_rset.%Message
-       set ex=##class(%Exception.SQL).CreateFromSQLCODE(%sqlcode,%message)
-        $$$ThrowStatus(ex.%AsStatus)
+       set ex=##class(%Exception.SQL).CreateFromSQLCODE(rset.%SQLCODE,rset.%Message)
+        $$$ThrowStatus(ex.AsStatus)
         }
     }
     catch ex {
-        set st=ex.%AsStatus()
+        set st=ex.AsStatus()
     }
     do $System.SQL.Util.SetOption("DDLPKeyNotIDKey",oldoption)
      
