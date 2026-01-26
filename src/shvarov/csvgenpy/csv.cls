@@ -13,8 +13,14 @@ ClassMethod Generate(filename, tablename = "csvgenpy", schema = "csvgen", server
             Set sc=..StreamToFile(stream,.filename)
             if $$$ISERR(sc) Return sc
         }
-
+        try {
         do csv.importcsv(filename,tablename,server,schema,$case(append,1:"append",:"replace"),header)
+        }
+        catch ex {
+            set sc=ex.AsStatus()
+            Do ex.Log()
+            return sc
+        }
         //B "L"
         // add primary key if we are not appending
         if primarykey'="",'append {
